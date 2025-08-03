@@ -6,7 +6,7 @@
 
 ## 📌 Table of Contents
 
-- [Demo Screenshots](#Screenshot/home_page.png)
+- [Demo Screenshots](#screenshots/home_page.png)
 - [Key Features](#-key-features)
 - [Technologies Used](#-technologies-used)
 - [Project Objectives](#-project-objectives)
