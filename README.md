@@ -6,7 +6,7 @@
 
 ## 📌 Table of Contents
 
-- [Demo Screenshots](#[screenshots/home_page.png](https://github.com/dharmender12/Smartshop/blob/main/screenshots/home_page.png))
+[Click here to view the Checkout Page Screenshot](https://github.com/dharmender12/Smartshop/blob/main/screenshots/checkout.png)
 - [Key Features](#-key-features)
 - [Technologies Used](#-technologies-used)
 - [Project Objectives](#-project-objectives)
