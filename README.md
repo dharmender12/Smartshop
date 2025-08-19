@@ -162,6 +162,6 @@ See the [Demo Screenshots](#-demo-screenshots) section above for UI visuals.
 
 ## 📜 License
 
-This project was developed by [Dharmender Thakur](https://github.com/dharmender12) as part of the NIELIT 'A' Level course.
+This project was developed by [Dharmender](https://github.com/dharmender12) as part of the NIELIT 'A' Level course.
 
 Feel free to fork or adapt it for learning and development purposes. Attribution appreciated.
