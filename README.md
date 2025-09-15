@@ -1,4 +1,4 @@
-# 🏍️ SmartShop – An Online Shopping Platform
+# SmartShop – An Online Shopping Platform
 
 **SmartShop** is a Django-powered e-commerce web application designed to empower small and medium-sized businesses (SMBs) with a secure, scalable, and user-friendly online store. It offers robust features for product management, order tracking, and customer interaction, all wrapped in a responsive and intuitive interface.
 
